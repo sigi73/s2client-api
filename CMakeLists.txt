@@ -88,3 +88,5 @@ endif ()
 if (BUILD_API_EXAMPLES)
     add_subdirectory("tests")
 endif ()
+
+add_subdirectory("ai")

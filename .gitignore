@@ -53,3 +53,5 @@ project/include
 project/lib
 
 .DS_Store
+
+.vscode/
